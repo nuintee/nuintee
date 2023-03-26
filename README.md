@@ -9,7 +9,7 @@
 <!--現在22歳の横浜在住WEBフロントエンドエンジニアです。 最近T3 Stackが好きです。 -->
 
 ## スキル一覧
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,prisma,html,css,tailwind,jest,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,prisma,html,css,tailwind,jest,docker,webpack)](https://skillicons.dev)
 
 その他のスキル
 - tRPC
