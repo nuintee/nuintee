@@ -13,6 +13,7 @@
 
 その他のスキル
 - tRPC
+- Zod
 - ReactQuery
 - Storybook
 - ESLint ・ Prettier
