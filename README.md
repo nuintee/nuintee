@@ -18,8 +18,9 @@
 - Storybook
 - ESLint ・ Prettier
 
-## 各種アカウント
+## 各種URL
 [Qiita - nuinteedev](https://qiita.com/nuinteedev)
+[職務経歴書 - nuintee](https://www.resume.id/nuintee)
 
 ## Github上の統計
 
