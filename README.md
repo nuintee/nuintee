@@ -16,12 +16,3 @@ Web Developer |  Next.js / React / TypeScript <br />
 [Qiita - nuinteedev](https://qiita.com/nuinteedev)
 
 [職務経歴書 - nuintee](https://www.resume.id/nuintee)
-
-## 統計
-
-<a href="https://github.com/nuintee/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nuintee" />
-</a>
-<a href="https://github.com/nuintee/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintee" />
-</a>
