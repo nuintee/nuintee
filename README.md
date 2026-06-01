@@ -13,6 +13,5 @@ Web Developer |  Next.js / React / TypeScript <br />
 - ESLint ・ Prettier
 
 ## 各種URL
-[Qiita - nuinteedev](https://qiita.com/nuinteedev)
-
-[職務経歴書 - nuintee](https://www.resume.id/nuintee)
+- [Qiita](https://qiita.com/nuinteedev)
+- [Zenn](https://zenn.dev/nuintee)
