@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、Sho Ishikawa (Nuintee)です 👋</h1>
+<h1 align="center">Sho Ishikawa (Nuintee)</h1>
 
 <p align="center">
   フロントエンドを主軸にしつつ、DB 設計 / REST API 設計・実装まで横断する Web エンジニアです
